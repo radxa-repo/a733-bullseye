@@ -1,4 +1,5 @@
 {
   "allwinner-prebuilt": "1.4.6-3",
-  "allwinner-prebuilt-extra": "0.1.9"
+  "allwinner-prebuilt-extra": "0.1.9",
+  "radxa-overlays": "0.2.18"
 }
